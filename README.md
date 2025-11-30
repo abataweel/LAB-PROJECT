@@ -1,5 +1,5 @@
 # LAB PROJECT  
-## EE202 – Team B-Section-DA
+## EE202 – Team B - Section DA
 
 ---
 
