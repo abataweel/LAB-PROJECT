@@ -50,9 +50,10 @@
 
 ## **Installation Guide**
 
-1.  
-2.  
-3.  
+1.  Install the Python file and the UI file
+2.  You must have PyQt5 installed
+3.  Ensure both project files (lab_project.ui and Project_lab.py) are saved in the same directory on your computer.
+4.  Run the Application navigate to the directory where you saved the files using your terminal or command prompt, and run the main Python script:
 
 ---
 
